@@ -4,37 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b857ea6f-6df0-4c82-9332-7230138ddb79" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson java.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/a_tema_1_2/I_kotleti_9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/a_tema_1_2/a_red_cup_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/a_tema_1_2/b_strange_clock_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/a_tema_1_2/c_max_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/a_tema_1_2/d_visokosni_god_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/a_tema_1_2/e_yravn_one_5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/a_tema_1_2/f_yravn_two_6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/a_tema_1_2/g_triangle_7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/a_tema_1_2/h_elephant_8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/a_tema_1_2/j_rimsk_10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/b_labaratornaya_2/a_scan_namber_from_keyboard_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/b_labaratornaya_2/count_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/b_labaratornaya_2/delitel_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/b_labaratornaya_2/e_count_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/b_labaratornaya_2/f_morning_run_5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/c_DZ_6_mart/a_poteryanaya_kartochka_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/c_DZ_6_mart/ab_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/c_DZ_6_mart/ac_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/c_DZ_6_mart/d_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/d_labaratornaya_4/bolshe_menshe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ddd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/game_from_chat_gpt.java" afterDir="false" />
+    <list default="true" id="b857ea6f-6df0-4c82-9332-7230138ddb79" name="Changes" comment="new 1">
+      <change beforePath="$PROJECT_DIR$/src/d_labaratornaya_4/bolshe_menshe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/d_labaratornaya_4/bolshe_menshe.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -190,10 +161,22 @@
       <workItem from="1682967789176" duration="221000" />
       <workItem from="1683805431462" duration="264000" />
     </task>
+    <task id="LOCAL-00001" summary="new 1">
+      <created>1685972159521</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1685972159521</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="new 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="new 1" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
